@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\48571\source\repos\GeneratoryLiniowe\GeneratoryLiniowe\main.cpp(108,19): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\48571\source\repos\GeneratoryLiniowe\GeneratoryLiniowe\main.cpp(169,20): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+  GeneratoryLiniowe.vcxproj -> C:\Users\48571\source\repos\GeneratoryLiniowe\x64\Debug\GeneratoryLiniowe.exe
